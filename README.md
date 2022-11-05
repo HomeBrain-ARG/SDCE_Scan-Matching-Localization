@@ -62,7 +62,7 @@ Note that any visualizations will appear only the remote desktop; if you work in
 **8) NDT: Zoom at the end position.**<br />
 ![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/04_NDT_End_Zoom.JPG)<br />
 
-## **Notes:**<br />
+## **End Notes:**<br />
 Comparing the results, it is seen that the ICP method has a greater error than the NDT method. An important point is that the ICP method uses less computational resources than the NDT method.<br />
 
 
