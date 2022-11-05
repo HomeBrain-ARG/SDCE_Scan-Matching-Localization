@@ -33,3 +33,11 @@ cd /home/workspace/c3-project
 
 Note that any visualizations will appear only the remote desktop; if you work in the workspace IDE you will need to click on the "Desktop" button in the bottom right, and only run the executable from the terminal within the remote desktop to view them.<br />
 
+## **RESULTS:**
+### **ICP Method Results:**
+** 1) ICP: Start position of ICP method.<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/01_ICP.JPG)<br />
+** 2) ICP: Vehicle touring the map.<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/02_ICP.JPG)<br />
+
+
