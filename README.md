@@ -22,6 +22,7 @@ cd /home/workspace/c3-project
 
 // Create new tab
 cd /home/workspace/c3-project
+
 // To run ICP method:
 ./cloud_loc ict // Might have core dump on start up, just rerun if so. Crash doesn't happen more than a couple of times
 
