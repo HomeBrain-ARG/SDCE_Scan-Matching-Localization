@@ -42,5 +42,13 @@ Note that any visualizations will appear only the remote desktop; if you work in
 **2) ICP: Vehicle touring the map.**<br />
 ![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/02_ICP.JPG)<br />
 
+**3) ICP: Vehicle achieve 170m.**<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/03_ICP_End.JPG)<br />
+
+**4) ICP: Zoom at the end position.**<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/04_ICP_End_Zoom.JPG)<br />
+
+
+
 
 
