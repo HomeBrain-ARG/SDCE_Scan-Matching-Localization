@@ -36,7 +36,7 @@ Note that any visualizations will appear only the remote desktop; if you work in
 ## **Results:**
 ### **ICP Method Results:**
 
-**1) ICP: Start position of ICP method.**<br />
+**1) ICP: Start position.**<br />
 ![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/01_ICP.JPG)<br />
 
 **2) ICP: Vehicle touring the map.**<br />
@@ -48,7 +48,19 @@ Note that any visualizations will appear only the remote desktop; if you work in
 **4) ICP: Zoom at the end position.**<br />
 ![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/04_ICP_End_Zoom.JPG)<br />
 
+### **NDT Method Results:**
 
+**5) NDT: Start position.**<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/01_NDT.JPG)<br />
+
+**6) NDT: Vehicle touring the map.**<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/02_NDT.JPG)<br />
+
+**7) NDT: Vehicle achieve 170m.**<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/03_NDT_End.JPG)<br />
+
+**8) NDT: Zoom at the end position.**<br />
+![alt text](https://github.com/HomeBrain-ARG/SDCE_Scan-Matching-Localization/blob/main/00_Img/04_NDT_End_Zoom.JPG)<br />
 
 
 
