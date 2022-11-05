@@ -14,13 +14,21 @@ cmake .
 make
 ```
 
-Run
-
+## **Run:**<br />
+```
 su - student // Ignore Permission Denied, if you see student@ you are good
 cd /home/workspace/c3-project
 ./run_carla.sh
+
 // Create new tab
 cd /home/workspace/c3-project
-./cloud_loc // Might have core dump on start up, just rerun if so. Crash doesn't happen more than a couple of times
+// To run ICP method:
+./cloud_loc ict // Might have core dump on start up, just rerun if so. Crash doesn't happen more than a couple of times
 
-Note that any visualizations will appear only the remote desktop; if you work in the workspace IDE you will need to click on the "Desktop" button in the bottom right, and only run the executable from the terminal within the remote desktop to view them.
+// To run NDT method:
+./cloud_loc ndt // Might have core dump on start up, just rerun if so. Crash doesn't happen more than a couple of times
+
+```
+
+Note that any visualizations will appear only the remote desktop; if you work in the workspace IDE you will need to click on the "Desktop" button in the bottom right, and only run the executable from the terminal within the remote desktop to view them.<br />
+
